@@ -141,6 +141,9 @@ Emeritus:
 [Uptrace]: https://github.com/uptrace/uptrace/tree/master/example/opentelemetry-demo
 
 ⚙️ Setup
+## Microservices Architecture Diagram
+![Microservice Diagram](images/microservice architecture.png)
+
 
 1. Provision Infrastructure with Terraform using the Terminal
 

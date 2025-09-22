@@ -142,7 +142,7 @@ Emeritus:
 
 ⚙️ Setup
 
-1. Provision Infrastructure with Terraform
+1. Provision Infrastructure with Terraform using the Terminal
 
 Before deploying workloads, use Terraform to provision your base AWS infrastructure:
 
@@ -341,3 +341,48 @@ kubectl apply -f ingress.yaml
 
 
 ⚠️ Note: Update the certificate ARN in ingress.yaml with your ACM certificate.
+
+### 1. EKS Cluster Creation
+![EKS Cluster  output with terraform](images/img1.png)
+
+### 2. EKS Cluster View 
+![EKS View](images/img2.png)
+
+### 3. Remote Backend View 
+![Backend](images/img3.png)
+
+### 4. EKS Cluster in AWS
+![Cluster](images/img4.png)
+
+### 5. CI View
+![CI Pipeline](images/img5.png)
+
+### 6. Feature & Main Branch Merge
+![Pull Request](images/img6.png)
+
+### 7. No Conflict View 
+![Conflict Free](images/img7.png)
+
+### 8. Frontend View
+![Frontend](images/img8.png)
+
+### 9. Products
+![Product View](images/img9.png)
+
+### 10. Cart Setup
+![Carts](images/img10.png)
+
+### 11. Quantity Setup
+![Quantity](images/img11.png)
+
+### 12. Shipping Address
+![Address](images/img12.png)
+
+### 13. Order Complete
+![Order Complete](images/img13.png)
+
+### 14. Reviews
+![Review](images/img14.png)
+
+### 15. ARgoCD
+![CD View](images/img15.png)

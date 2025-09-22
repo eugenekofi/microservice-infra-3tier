@@ -384,5 +384,5 @@ kubectl apply -f ingress.yaml
 ### 14. Reviews
 ![Review](images/img14.png)
 
-### 14. ARgoCD
+### 15. ARgoCD
 ![CD View](images/img15.png)

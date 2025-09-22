@@ -142,7 +142,7 @@ Emeritus:
 
 ⚙️ Setup
 
-1. Provision Infrastructure with Terraform
+1. Provision Infrastructure with Terraform using the Terminal
 
 Before deploying workloads, use Terraform to provision your base AWS infrastructure:
 

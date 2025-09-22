@@ -140,8 +140,14 @@ Emeritus:
 [Tracetest]: https://github.com/kubeshop/opentelemetry-demo
 [Uptrace]: https://github.com/uptrace/uptrace/tree/master/example/opentelemetry-demo
 
-⚙️ Setup
 
+
+### Microservices Architecture Diagram
+![Microservice Diagram](images/diagram.png)
+
+
+
+⚙️ Setup
 1. Provision Infrastructure with Terraform using the Terminal
 
 Before deploying workloads, use Terraform to provision your base AWS infrastructure:
